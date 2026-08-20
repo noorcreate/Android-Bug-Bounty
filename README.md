@@ -16,7 +16,13 @@ PCAPdroid - Barely used.
 
 Claude and Deepseek - Claude's good for writing your custom code, but Deepseek is also very unfiltered for testing on targets. Both are good.
 
-# What I'll Tell You Here
+Proxy Toggle - It does what it says. https://github.com/theappbusiness/android-proxy-toggle
+
+# You Should Know
 - How I use all these tools to test on bug bounty programs
 - Problems I face, and problems I overcome
 - Share my custom code and methodology
+- Most of the things here won't be "conventional" or easy to understand, because they weren't made with keeping this in mind that I'll ever want them to be public.
+- Much of the custom coded things here are made by some AI, and not me. Feel free to experiment.
+- Share suggestions and solutions
+- I barely know how to use Git
